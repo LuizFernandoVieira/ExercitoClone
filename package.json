@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LuizFernandoVieira/ExercitoClone/issues"
   },
-  "homepage": "https://github.com/LuizFernandoVieira/ExercitoClone#readme"
+  "homepage": "https://github.com/LuizFernandoVieira/ExercitoClone#readme",
+  "dependencies": {
+    "sequelize": "^4.0.0"
+  }
 }
